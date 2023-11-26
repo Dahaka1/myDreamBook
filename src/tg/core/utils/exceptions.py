@@ -1,0 +1,2 @@
+class TGBotException(Exception):
+	pass

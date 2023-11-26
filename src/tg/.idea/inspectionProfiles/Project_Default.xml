@@ -1,0 +1,121 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="a" />
+            <item index="7" class="java.lang.String" itemvalue="li" />
+            <item index="8" class="java.lang.String" itemvalue="hr" />
+            <item index="9" class="java.lang.String" itemvalue="div" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="3.11" />
+            <item index="1" class="java.lang.String" itemvalue="3.12" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E101" />
+          <option value="E128" />
+          <option value="E714" />
+          <option value="W191" />
+          <option value="E402" />
+          <option value="E131" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N814" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyRedeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="set" />
+          <option value="id" />
+          <option value="int" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.__getitem__" />
+          <option value="int.__getitem__" />
+          <option value="dict.split" />
+          <option value="str.toordinal" />
+          <option value="str.*" />
+          <option value="dict.__getitem__" />
+          <option value="TGTrainingBot.handlers.start.*" />
+          <option value="list.values" />
+          <option value="list.items" />
+          <option value="list.keys" />
+          <option value="TGTrainingBot.handlers.checking.Coach" />
+          <option value="TGTrainingBot.handlers.checking.User" />
+          <option value="TGTrainingBot.handlers.checking.handlers" />
+          <option value="TGTrainingBot.handlers.checking.store" />
+          <option value="list.*" />
+          <option value="TGTrainingBot.classes.users_tasks.*" />
+          <option value="TGTrainingBot.handlers.admin_funcs.*" />
+          <option value="TGTrainingBot.classes.general.*" />
+          <option value="TGTrainingBot.classes.training.*" />
+          <option value="TGTrainingBot.handlers.checking.*" />
+          <option value="TGTrainingBot.handlers.other.additional_funcs.*" />
+          <option value="TGTrainingBot.handlers.coach_messages.*" />
+          <option value="TGTrainingBot.classes.signing_up.*" />
+          <option value="TGTrainingBot.handlers.payment_funcs.*" />
+          <option value="TGTrainingBot.handlers.general.*" />
+          <option value="TGTrainingBot.handlers.general.classes" />
+          <option value="TGTrainingBot.handlers.awaiting_messages_funcs.*" />
+          <option value="TGTrainingBot.classes.other.*" />
+          <option value="TGTrainingBot.classes.temporary.*" />
+          <option value="TGTrainingBot.handlers.other.temporary_data.*" />
+          <option value="TGTrainingBot.scripts.mailing.*" />
+          <option value="main.models.User.*" />
+          <option value="main.models.AgeGroup.*" />
+          <option value="events.models.PartyTag.*" />
+          <option value="django.db.models.fields.related.ForeignKey.*" />
+          <option value="events.models.Party.*" />
+          <option value="django.db.models.fields.related.OneToOneField.*" />
+          <option value="events.models.ContingentFilter.*" />
+          <option value="main.models.SubCulture.*" />
+          <option value="main.models.Creator.*" />
+          <option value="locations.models.Location.*" />
+          <option value="machines.models.Machine.*" />
+          <option value="cargo.models.Cargo.*" />
+          <option value="app.models.File.*" />
+          <option value="app.models.washing.WashingSource.*" />
+          <option value="app.backend.gateway.main._deployment" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
